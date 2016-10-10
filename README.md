@@ -13,3 +13,6 @@ This document is about to hold information about
 ### Links:
 * CeBIT Weather: https://github.com/data-henrik/CeBIT-Weather and related blog at http://blog.4loeser.net/2016/03/coincidence-cebit-visitors-and-weather.html
 * Notes on Notebooks: http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
+* 
+* Sample notebooks provided for Apache Spark service on Bluemix: https://developer.ibm.com/clouddataservices/docs/spark/sample-notebooks/
+* Simple graphing with pandas: http://pbpython.com/simple-graphing-pandas.html
