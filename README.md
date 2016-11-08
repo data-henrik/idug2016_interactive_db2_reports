@@ -9,6 +9,10 @@ This document is about to hold information about
    * Sample notebooks
    * and more...
 
+The draft for my IDUG EMEA presentation is in the file [20161115_IDUG_InteractiveReports.ipynb](https://github.com/data-henrik/idug2016_interactive_db2_reports/blob/master/20161115_IDUG_InteractiveReports.ipynb)
+
+
+
 
 ### Links:
 * CeBIT Weather: https://github.com/data-henrik/CeBIT-Weather and related blog at http://blog.4loeser.net/2016/03/coincidence-cebit-visitors-and-weather.html
