@@ -2,12 +2,11 @@
 Conference Website: [IDUG EMEA 2016](http://www.idug.org/p/cm/ld/fid=862)
 
 ### How to have fun with DB2 / dashDB and Jupyter Notebooks - interactive presentation and reports
-One of my IDUG talks is about to following topics
+My IDUG session E08 is about to following topics
    * Getting Started with Jupyter Notebooks
-   * How to connect to DB2 / dashDB
+   * Interfaces to DB2 / dashDB
    * Presentations with RISE
-   * Sample notebooks
-   * and more...
+   * The FUN I had and more...
 
 The draft for my IDUG EMEA presentation is in the file [20161115_IDUG_InteractiveReports.ipynb](https://github.com/data-henrik/idug2016_interactive_db2_reports/blob/master/20161115_IDUG_InteractiveReports.ipynb)
 
@@ -22,6 +21,8 @@ For my Jupyter Notebook-based presentation I made use of several products, libra
 * Python interface to DB2 - ibm_db: https://github.com/ibmdb/python-ibmdb
 * Bokeh Visualization Library: http://bokeh.pydata.org/en/latest/
 * ...
+
+I started my journey with Jupyter Notebooks using the [Apache Spark service on Bluemix](https://console.ng.bluemix.net/catalog/services/apache-spark/) which includes notebooks.
 
 ### Links:
 In the past I already used and wrote about notebooks and DB2, here are some related links as well as to samples you might find useful:
