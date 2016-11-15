@@ -10,6 +10,8 @@ My IDUG session E08 is about to following topics
 
 The draft for my IDUG EMEA presentation is in the file [20161115_IDUG_InteractiveReports.ipynb](https://github.com/data-henrik/idug2016_interactive_db2_reports/blob/master/20161115_IDUG_InteractiveReports.ipynb)
 
+![](https://raw.githubusercontent.com/data-henrik/idug2016_interactive_db2_reports/master/201611idug_notebook.png)
+
 ### Stuff I used
 For my Jupyter Notebook-based presentation I made use of several products, libraries and technologies. Here is a list of those:
 * DB2 and dashDB
